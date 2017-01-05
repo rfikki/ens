@@ -1,7 +1,7 @@
 # ENS
 Implementations for registrars and local resolvers for the Ethereum Name Service.
 
-For documentation of the ENS system, see (http://ens.readthedocs.io/en/latest/introduction.html).
+For documentation of the ENS system, see (http://ens.readthedocs.io/en/latest).
 
 ## ENS.sol
 Implementation of the ENS Registry, the central contract used to look up resolvers and owners for domains.
